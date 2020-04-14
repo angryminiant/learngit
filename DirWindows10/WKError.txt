@@ -1,6 +1,1 @@
- didFailLoadWithError = Error Domain=NSURLErrorDomain Code=-1002 "unsupported URL" UserInfo={_NSURLErrorFailingURLSessionTaskErrorKey=LocalDataTask <BD27FBD9-5A3E-4C17-902B-6645AF36646E>.<5>, NSLocalizedDescription=unsupported URL, _WKRecoveryAttempterErrorKey=<WKReloadFrameErrorRecoveryAttempter: 0x281a36160>, networkTaskDescription=LocalDataTask <BD27FBD9-5A3E-4C17-902B-6645AF36646E>.<5>, NSErrorFailingURLStringKey=vipshop://goHome?tra_from=tra%3AC01V0083pqy8mydr%3A%40_%401585806152325%3Amig_code%3A9_294231___1%3Aac013mtrq81riqot01lklqeos12c2a3o&f=dx, NSErrorFailingURLKey=vipshop://goHome?tra_from=tra%3AC01V0083pqy8mydr%3A%40_%401585806152325%3Amig_code%3A9_294231___1%3Aac013mtrq81riqot01lklqeos12c2a3o&f=dx, NSUnderlyingError=0x280a45f50 {Error Domain=kCFErrorDomainCFNetwork Code=-1002 "(null)"}}
-
-
-
-
-https://ms.vipstatic.com/union/deeplink/deeplink.html?link_url=vipshop%3A%2F%2FgoHome%3Ftra_from%3Dtra%253AC01V0083pqy8mydr%253A%2540_%25401585806152325%253Amig_code%253A9_294231___1%253Aac013mtrq81riqot01lklqeos12c2a3o%26f%3Ddx&dest_url=https%3A%2F%2Fm.vip.com
+ didFailLoadWithError = Error Domain=NSURLErrorDomain Code=-1002 "unsupported URL" UserInfo={_NSURLErrorFailingURLSessionTaskErrorKey=LocalDataTask
